@@ -1,0 +1,15 @@
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.AssemblyReference.cache
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfoInputs.cache
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.AssemblyInfo.cs
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\PracticeProject.exe
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\PracticeProject.deps.json
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\PracticeProject.runtimeconfig.json
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\PracticeProject.dll
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\ref\PracticeProject.dll
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\bin\Debug\net6.0\PracticeProject.pdb
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.dll
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\ref\PracticeProject.dll
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.pdb
+C:\Users\mjwaw\Revature\MikeW\PracticeProject\obj\Debug\net6.0\PracticeProject.genruntimeconfig.cache
