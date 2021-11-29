@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjwaw\\Revature\\MikeW\\CalculatorProject2\\CalculatorProject2.csproj": {}
+    "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\CalculatorProject2\\CalculatorProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjwaw\\Revature\\MikeW\\CalculatorProject2\\CalculatorProject2.csproj": {
+    "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\CalculatorProject2\\CalculatorProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjwaw\\Revature\\MikeW\\CalculatorProject2\\CalculatorProject2.csproj",
+        "projectUniqueName": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\CalculatorProject2\\CalculatorProject2.csproj",
         "projectName": "CalculatorProject2",
-        "projectPath": "C:\\Users\\mjwaw\\Revature\\MikeW\\CalculatorProject2\\CalculatorProject2.csproj",
+        "projectPath": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\CalculatorProject2\\CalculatorProject2.csproj",
         "packagesPath": "C:\\Users\\mjwaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjwaw\\Revature\\MikeW\\CalculatorProject2\\obj\\",
+        "outputPath": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\CalculatorProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mjwaw\\AppData\\Roaming\\NuGet\\NuGet.Config"
