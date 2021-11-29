@@ -24,7 +24,7 @@
             case 1: 
                 Console.WriteLine("enter the first number to add");
                 double num1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("enter the secod number to add");
+                Console.WriteLine("enter the second number to add");
                 double num2 = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine(num1 + " plus " + num2 + " is equal to " + (num1 + num2));
                 break;
@@ -32,7 +32,7 @@
             case 2:
                 Console.WriteLine("enter the first number to subtract");
                 num1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("enter the secod number to subtract");
+                Console.WriteLine("enter the second number to subtract");
                 num2 = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine(num1 + " minus " + num2 + " is equal to " + (num1 - num2));
                 break;
@@ -40,7 +40,7 @@
             case 3: 
                 Console.WriteLine("enter the first number to multiply");
                 num1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("enter the secod number to multiply");
+                Console.WriteLine("enter the second number to multiply");
                 num2 = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine(num1 + " multiplied by " + num2 + " is equal to " + (num1 * num2));
                 break;   
@@ -48,7 +48,7 @@
             case 4:
                 Console.WriteLine("enter the first number to divide");
                 num1 = Convert.ToDouble(Console.ReadLine());
-                Console.WriteLine("enter the secod number to divide");
+                Console.WriteLine("enter the second number to divide");
                 num2 = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine(num1 + " divided by " + num2 + " is equal to " + (num1 / num2));
                 break;
