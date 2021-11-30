@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjwaw\\Revature\\MikeW\\PracticeProject\\PracticeProject.csproj": {}
+    "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\PracticeProject\\PracticeProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjwaw\\Revature\\MikeW\\PracticeProject\\PracticeProject.csproj": {
+    "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\PracticeProject\\PracticeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjwaw\\Revature\\MikeW\\PracticeProject\\PracticeProject.csproj",
+        "projectUniqueName": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\PracticeProject\\PracticeProject.csproj",
         "projectName": "PracticeProject",
-        "projectPath": "C:\\Users\\mjwaw\\Revature\\MikeW\\PracticeProject\\PracticeProject.csproj",
+        "projectPath": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\PracticeProject\\PracticeProject.csproj",
         "packagesPath": "C:\\Users\\mjwaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjwaw\\Revature\\MikeW\\PracticeProject\\obj\\",
+        "outputPath": "C:\\Users\\mjwaw\\Revature\\MikeW-Calculator\\PracticeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mjwaw\\AppData\\Roaming\\NuGet\\NuGet.Config"

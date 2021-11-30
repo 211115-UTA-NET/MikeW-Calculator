@@ -1,69 +1,75 @@
 ﻿public static class Calculator{
 
-public static void Main(string[] args){
+    public static void Main(string[] args){
 
-    
-int input = 0;
+        int input = 0;
+        
 
-while (input != 5)
-{ 
-    Console.WriteLine("What do you want to calculate? Enter a number.");
-    Console.WriteLine("1. Addition");
-    Console.WriteLine("2. Subtraction");
-    Console.WriteLine("3. Multiplication");
-    Console.WriteLine("4. Division");
-    Console.WriteLine("5. Quit");
-    
-    input = Convert.ToInt32(Console.ReadLine());
+        while (input != 6)
+        {
+            Console.WriteLine("What do you want to calculate? Enter a number: ");
+            Console.WriteLine("1. Addition");
+            Console.WriteLine("2. Subtraction");
+            Console.WriteLine("3. Multiplication");
+            Console.WriteLine("4. Division");
+            Console.WriteLine("5. Other");
+            Console.WriteLine("6. Quit");
+            
+            input = Convert.ToInt32(Console.ReadLine());
+            if (input > 6)
+            {
+                Console.WriteLine("That selection is invalid");
+            } 
+            if(input == 5){
+                Console.WriteLine("what do you want to do?");
+                Console.WriteLine("1. Find a square root");
+                Console.ReadLine();
+                    if(input ==1 ){
+                        Console.WriteLine("Enter a number:");
+                        double num1 = Convert.ToDouble(Console.ReadLine());
+                        Console.WriteLine(Math.Sqrt(num1));
 
-    
+                    }
+            }
+            
+        switch (input)
+        {
+            case 1: 
+                Console.WriteLine("enter the first number to add");
+                double num1 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("enter the second number to add");
+                double num2 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine(num1 + " plus " + num2 + " is equal to " + (num1 + num2));
+                break;
+            
+            case 2:
+                Console.WriteLine("enter the first number to subtract");
+                num1 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("enter the second number to subtract");
+                num2 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine(num1 + " minus " + num2 + " is equal to " + (num1 - num2));
+                break;
 
-// if (input == 1)
-// {
-//     Console.WriteLine("Enter your first number");
-//     double num1;
-//     num1 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine("Enter your second number");
-//     double num2;
-//     num2 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine(num1 + " plus " + num2 + " is equal to " + (num1 + num2));
-// } 
+            case 3: 
+                Console.WriteLine("enter the first number to multiply");
+                num1 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("enter the second number to multiply");
+                num2 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine(num1 + " multiplied by " + num2 + " is equal to " + (num1 * num2));
+                break;   
 
-//     else if (input == 2)
-// {
-//     Console.WriteLine("Enter your first number");
-//     double num1;
-//     num1 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine("Enter your second number");
-//     double num2;
-//     num2 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine( num1 + " minus " + num2 + " equals " + (num1 - num2));
-// }
+            case 4:
+                Console.WriteLine("enter the first number to divide");
+                num1 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("enter the second number to divide");
+                num2 = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine(num1 + " divided by " + num2 + " is equal to " + (num1 / num2));
+                break;
 
-//     else if (input == 3)
-//     {
-//         Console.WriteLine("Enter your first number");
-//     double num1;
-//     num1 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine("Enter your second number");
-//     double num2;
-//     num2 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine(num1 + " multiplied by " + num2 + " is equal to " +(num1 * num2));
-//     }
-   
-//     else if (input == 4)
-//     {
-//         Console.WriteLine("Enter your first number");
-//     double num1;
-//     num1 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine("Enter your second number");
-//     double num2;
-//     num2 = Convert.ToDouble(Console.ReadLine());
-//     Console.WriteLine(num1 + " divided by " + num2 + " is equal to " + (num1 / num2));
-//     }
-//    }
-// Console.WriteLine("Thanks for Calculating.");
-
-}
-    
-}
+            case 5:
+                Console.WriteLine("Thanks for calculating.");
+                break;
+        }
+        } 
+    }
+} 
